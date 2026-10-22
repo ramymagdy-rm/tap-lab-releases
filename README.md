@@ -17,7 +17,7 @@ The source is private; releases are made by its CI.
   emulated, and Tap Lab never tries.
 - It has no account and asks for **no internet permission**.
 
-## Install (Android 8 or later, with NFC)
+## Install (an Android phone with NFC)
 
 1. On the phone, open the latest release and download
    `TapLabEmulator.apk`, or use **Get the app** in the web app.
